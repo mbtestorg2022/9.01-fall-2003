@@ -7,6 +7,7 @@ description: 'This resource lists main points on the goals, the neuron, evolutio
   and other topics.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-01-neuroscience-and-behavior-fall-2003/92afefb8c8f2adc93212a89dc0fe598b_grand_scheme_1.pdf
 file_type: application/pdf
+parent_uid: 289a0198-2748-bb88-47f1-2606710deab6
 resourcetype: Document
 title: grand_scheme_1.pdf
 uid: 92afefb8-c8f2-adc9-3212-a89dc0fe598b
